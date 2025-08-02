@@ -1,5 +1,3 @@
-## السّلام عليكم و رحمة الله تعالى و بركاته 🤍
-
 #### Third-year AI student at ENSIA 🎓 </br>
 (National Higher School of Artificial Intelligence in Algeria 🇩🇿 ) </br>
 
