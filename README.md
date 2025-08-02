@@ -24,4 +24,4 @@
 
 
 ### 📬 Contact
-[LinkedIn](www.linkedin.com/in/besmala-codes-b2a24a362) • dmbesmalamail@gmail.com
+• dmbesmalamail@gmail.com
