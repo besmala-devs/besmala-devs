@@ -1,16 +1,27 @@
-## Hi there 👋
+## السّلام عليكم و رحمة الله تعالى و بركاته 🤍
 
-<!--
-**besmala-codes/besmala-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Third-year AI student at ENSIA 🎓 </br>
+(National Higher School of Artificial Intelligence in Algeria 🇩🇿 ) </br>
 
-Here are some ideas to get you started:
+👩🏻‍🎓 To be an AI & Data Science Engineer Insha'allah . </br>
+👩🏻‍💻 sharing about my journey and learnings in tech .</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Interests & currently improving
+- 🌐 Web development (frontend + backend)  
+- 🐍 Python & 💻 C++ programming  
+- 🧩 AI and algorithms  
+- 🕌 Islamic and 📔 personal development projects
+
+
+![Besmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=besmala-codes&show_icons=true&theme=radical)
+
+
+### 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript  
+- Backend: PHP, MySQL  
+- Languages: Python, C++  
+- Database: Oracle SQL Plus, phpMyAdmin
+
+
+### 📬 Contact
+[LinkedIn](www.linkedin.com/in/besmala-codes-b2a24a362) • dmbesmalamail@gmail.com
