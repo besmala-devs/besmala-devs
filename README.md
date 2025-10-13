@@ -2,7 +2,7 @@
 (National Higher School of Artificial Intelligence in Algeria 🇩🇿 ) </br>
 
 👩🏻‍🎓 To be an AI & Data Science Engineer Insha'allah . </br>
-👩🏻‍💻 sharing about my journey and learnings in tech, (not too much, trying to :') ! )</br>
+👩🏻‍💻 Documenting my small steps and learnings in tech (hopefully trying :’))
 
 ### 🧠 Interests & currently improving
 - 🌐 Web development (frontend + backend)  
