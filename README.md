@@ -13,14 +13,9 @@
 
 
 
-![Besmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=besmala-codes&show_icons=true&theme=radical)
+![Besmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=besmala-devs&show_icons=true&theme=radical)
 
 
-### 🛠️ Tech Stack
-- Frontend: HTML, CSS, JavaScript  
-- Backend: PHP, MySQL  
-- Languages: Python, C++  
-- Database: Oracle SQL Plus, phpMyAdmin
 
 
 ### 📬 Contact
