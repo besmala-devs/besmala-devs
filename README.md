@@ -13,7 +13,6 @@
 
 
 
-![Besmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=besmala-devs&show_icons=true&theme=radical)
 
 
 
