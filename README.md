@@ -8,7 +8,7 @@ Currently in my 6th semester, with a good mathematical, CS, data science and AI 
 
 ⚠️ Note: The technologies listed below represent tools and frameworks I have worked with across academic and personal projects. While I may not have full mastery of each, I am continuously improving my skills and deepening my understanding through hands-on practice and real-world applications. </br>
 
-## 🤖 Artificial Intelligence & Data
+### Artificial Intelligence & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -26,7 +26,7 @@ Currently in my 6th semester, with a good mathematical, CS, data science and AI 
 
 ---
 
-## 🌐 Full-Stack & Mobile
+### Full-Stack & Mobile
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,7 +45,7 @@ Currently in my 6th semester, with a good mathematical, CS, data science and AI 
 
 ---
 
-## ☁️ Backend, Cloud & Database
+### Backend, Cloud & Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -58,7 +58,7 @@ Currently in my 6th semester, with a good mathematical, CS, data science and AI 
 
 ---
 
-## 🖥️ Systems, Networks & Low-Level
+### Systems, Networks & Low-Level
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
@@ -76,7 +76,7 @@ Currently in my 6th semester, with a good mathematical, CS, data science and AI 
 
 ---
 
-## ⚙️ Other Tools
+### Other Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
