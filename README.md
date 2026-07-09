@@ -2,7 +2,7 @@
 
 👩🏻‍🎓 To be an AI & Data Science Engineer Insha'allah . </br>
 
-Currently in my 6th semester, with a good mathematical, CS, data science and AI foundation. My current focus is on translating these academic principles into practical applications within Machine Learning and AI, Full-Stack, and Mobile Development. </br>
+Finished my 6th semester, about to start the four year Insha'allah, with a good mathematical, CS, data science and AI foundation. My current focus is on translating these academic principles into practical applications within Machine Learning and AI, Full-Stack, and Mobile Development. </br>
 
 👩🏻‍💻 Current Mission: Documenting my steps as I bridge the gap between theoretical AI and functional software build-outs </br>
 
