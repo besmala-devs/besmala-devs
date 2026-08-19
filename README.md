@@ -16,4 +16,4 @@
 
 ### 📬 Contact
 
-📧 [dmbesmalamail@gmail.com](mailto:dmbesmalamail@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](linkedin.com/in/besmala-douadi-b2a24a362)
+📧 [dmbesmalamail@gmail.com](mailto:dmbesmalamail@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/besmala-douadi-b2a24a362/)
