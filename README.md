@@ -1,10 +1,10 @@
-### ***Who is Besmala Douadi on GitHub?***
+### *About My Journey*
 
-👩🏻‍💻 *She’s an AI & Data Science student at ensia, currently learning and exploring **Machine Learning, Deep Learning, NLP, Computer Vision**, and data science in general.*
+👩🏻‍💻 *I’m an AI & Data Science student at **ENSIA**, currently learning and exploring **Machine Learning, Deep Learning, NLP, Computer Vision**, and data science in general.*
 
-💻 *She enjoys building useful software, from designing the idea to developing the **frontend and backend**, whether it’s a website or an app. She’s **still learning** across the different technologies in her stack, using what she needs to turn ideas into functional projects.*
+💻 *I enjoy building useful software, from designing the idea to developing the **frontend and backend**, whether it’s a website or an app. I'm **still learning** across the different technologies in my stack, using what I need to turn ideas into functional projects.*
 
-💡 *She’s driven by curiosity and the joy of turning ideas into **things people can actually use.***
+💡 *I'm driven by curiosity and the joy of turning ideas into **things people can actually use.***
 
 
 ### 🛠️ Tech Stack
