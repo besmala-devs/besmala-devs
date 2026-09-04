@@ -1,8 +1,11 @@
-#### AI & Data Science Student at ENSIA 🎓
+### ***Who is Besmala Douadi on GitHub?***
 
-👩🏻‍🎓 Aiming to become an AI & Data Science Engineer, insha'Allah. Finished my 6th semester with a solid foundation in math, CS, data science, and AI — now focused on turning that into real ML, Full-Stack, and Mobile projects.
+👩🏻‍💻 *She’s an AI & Data Science student at ensia, currently learning and exploring **Machine Learning, Deep Learning, NLP, Computer Vision**, and data science in general.*
 
-👩🏻‍💻 Currently documenting my journey bridging theoretical AI with functional software.
+💻 *She enjoys building useful software, from designing the idea to developing the **frontend and backend**, whether it’s a website or an app. She’s **still learning** across the different technologies in her stack, using what she needs to turn ideas into functional projects.*
+
+💡 *She’s driven by curiosity and the joy of turning ideas into **things people can actually use.***
+
 
 ### 🛠️ Tech Stack
 
