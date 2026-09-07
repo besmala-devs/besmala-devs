@@ -16,7 +16,3 @@
 **Backend & Database:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase)
 
 **Systems & Tools:** ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-
-### 📬 Contact
-
-📧 [dmbesmalamail@gmail.com](mailto:dmbesmalamail@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/besmala-douadi-b2a24a362/)
